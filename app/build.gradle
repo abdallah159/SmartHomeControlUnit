@@ -1,3 +1,4 @@
+//noinspection GradleCompatible
 apply plugin: 'com.android.application'
 
 android {
@@ -27,6 +28,17 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.1'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
+
+
+    //Fast Networking and okHttp
+    compile 'com.amitshekhar.android:android-networking:1.0.1'
+    compile 'com.amitshekhar.android:jackson-android-networking:1.0.1'
+    compile 'com.squareup.okhttp3:okhttp:+'
+    compile 'com.facebook.stetho:stetho:+'
+    compile 'com.facebook.stetho:stetho-okhttp3:+'
+
+
+
 }
 
 

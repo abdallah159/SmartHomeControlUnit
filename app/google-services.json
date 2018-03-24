@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "127948672437",
+    "firebase_url": "https://smart-home-light.firebaseio.com",
+    "project_id": "smart-home-light",
+    "storage_bucket": "smart-home-light.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127948672437:android:fc3d316a703c9a44",
+        "android_client_info": {
+          "package_name": "com.example.abdallah.controlunit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127948672437-5gprnd9eid55fmp0325udp7aospoe3ca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abdallah.controlunit",
+            "certificate_hash": "e66275832b831afda43f8c940b3bf20713880a88"
+          }
+        },
+        {
+          "client_id": "127948672437-0ud9iebpugin885gm9nhqrvq158svmif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXJQpqpswZNGOQtx3XXUuh_023c6e2w-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127948672437-0ud9iebpugin885gm9nhqrvq158svmif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
